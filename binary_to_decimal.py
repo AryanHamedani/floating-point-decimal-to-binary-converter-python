@@ -14,3 +14,4 @@ def binary_converter(dec_num):
             dec_dec = str(int(dec_dec) * 2)
     # returning binary floating point number string
     return'{bin_whole}.{bin_dec}'.format(bin_whole=bin_whole, bin_dec=bin_dec)
+# This is a comment for a birth commit
